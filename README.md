@@ -7,7 +7,8 @@
 
 </p>
 <br>
-<p align="center"> <span align="left"><img src="https://komarev.com/ghpvc/?username=bahar-jfr&label=Profile%20views&color=0e75b6&style=flat" alt="bahar" /></span>
+<p align="center"> <span align="left"><img src="./image/undraw_Dev_focus_re_6iwt.png" alt="bahar" /></span>
+<br>
 <span align="right">
 <img  alt="coding" width="350" src="https://cdn.dribbble.com/users/4767249/screenshots/19975971/media/5ece3734f172e867e512f8a690822c66.gif"></span>  </p>
 <br><hr>
