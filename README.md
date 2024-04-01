@@ -2,7 +2,7 @@
 <h2 align="center">Front-End Developer</h2> 
  <br>
  <p align="center">
-  <a href="https://www.linkedin.com/in/bahar-jafarimehr-302603267/"><img
+  <a href="https://www.linkedin.com/in/bahar-jafarimehr"><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=f4f4f4&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/mre-dev/"></a>
 
 </p>
