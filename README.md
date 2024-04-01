@@ -9,6 +9,10 @@
 <br>
 <p align="center"> <p align="left"><img src="https://komarev.com/ghpvc/?username=bahar-jfr&label=Profile%20views&color=0e75b6&style=flat" alt="bahar" /></p>
 <br>
+
+<p align="right">
+<img  alt="coding" width="350" src="./image/undraw_Dev_focus_re_6iwt.png"></p>  </p>
+<br>
 <p align="left">
 <h3> About me :</h3>
 
@@ -18,10 +22,6 @@
 
 - Reach me : baharjm16@gmail.com
 </p>
-<p align="right">
-<img  alt="coding" width="350" src="./image/undraw_Dev_focus_re_6iwt.png"></p>  </p>
-<br><hr>
-
 <br>
 <h4 align="center">Languages and Tools</h4>
 <p align="center">
