@@ -2,15 +2,15 @@
 <h2 align="center">Front-End Developer</h2> 
  <br>
  <p align="center">
-  <a href="https://www.linkedin.com/in/bahar-jafarimehr/"><img
+  <a href="https://www.linkedin.com/in/bahar-jafarimehr-302603267/"><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=f4f4f4&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/mre-dev/"></a>
 
 </p>
 <br>
-<p align="center"> <span align="left"><img src="./image/undraw_Dev_focus_re_6iwt.png" alt="bahar" /></span>
+<p align="center"> <span align="left"><img src="https://komarev.com/ghpvc/?username=bahar-jfr&label=Profile%20views&color=0e75b6&style=flat" alt="bahar" /></span>
 <br>
 <span align="right">
-<img  alt="coding" width="350" src="https://cdn.dribbble.com/users/4767249/screenshots/19975971/media/5ece3734f172e867e512f8a690822c66.gif"></span>  </p>
+<img  alt="coding" width="350" src="./image/undraw_Dev_focus_re_6iwt.png"></span>  </p>
 <br><hr>
 <p align="left">
 <h3> About me :</h3>
