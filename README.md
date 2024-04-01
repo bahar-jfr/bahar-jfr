@@ -6,11 +6,7 @@
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=f4f4f4&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/mre-dev/"></a>
 
 </p>
-<br>
-<p align="center"> <p align="left"><img src="https://komarev.com/ghpvc/?username=bahar-jfr&label=Profile%20views&color=0e75b6&style=flat" alt="bahar" /></p>
-</p>
-<!-- <p align="right">
-<img  alt="coding" width="350" src="./image/undraw_Dev_focus_re_6iwt.png"></p> -->
+ <p align="left"><img src="https://komarev.com/ghpvc/?username=bahar-jfr&label=Profile%20views&color=0e75b6&style=flat" alt="bahar" /></p>
 <p align="left">
 <h3> About me :</h3>
 
@@ -47,3 +43,5 @@
   <img alt="GitHub Stats" align="top" width="65%" height="240px" src="https://github-readme-stats.vercel.app/api?username=bahar-jfr&theme=algolia" />
   <img alt="Top Language" align="center" width="32%" height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahar-jfr&langs_count=5&theme=algolia" />
 </div>
+<!-- <p align="right">
+<img  alt="coding" width="350" src="./image/undraw_Dev_focus_re_6iwt.png"></p> -->
